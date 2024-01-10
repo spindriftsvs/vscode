@@ -1,6 +1,6 @@
-# github-vscode
+# VScode Integration with GitHub
 
-<hr style="border:2px solid black; border-radius: 5px; margin: auto; background-color: black;">
+<hr style="border:2px solid black; border-radius: 5px; margin: auto; background-color: #000000;">
 
 ##
 These notes document the process to integrate VScode with GitHub on MacOS Sonoma
